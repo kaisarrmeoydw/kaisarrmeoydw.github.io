@@ -1,9 +1,0 @@
-# Ignore artifacts:
-dist
-build
-coverage
-
-# Yarn generations:
-.pnp.cjs
-.pnp.loader.mjs
-.yarn
